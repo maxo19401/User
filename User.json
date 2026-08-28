@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "device_id": "f9c78e7e6cb7316b",
+        "key": "MAXO",
+        "expirydate": "29-08-2027",
+        "Allowoffline": true,
+        "disabled": false,
+        "last_ip": "",
+        "device_model": "",
+        "country": "",
+        "city": "",
+        "isp": "",
+        "is_vpn": ""
+    }
+]
