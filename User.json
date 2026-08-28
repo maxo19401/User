@@ -4,5 +4,11 @@
         "key": "Mahan",
         "expirydate": "25-05-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "58e23c2d6c00b144",
+        "key": "Amirali1223",
+        "expirydate": "30-08-2026",
+        "Allowoffline": true
     }
 ]
